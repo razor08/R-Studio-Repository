@@ -1,0 +1,11 @@
+---
+title: "new_repo_quarto"
+author: "Jay Sinha"
+description: "creating a new quarto file in a git version control R project"
+format: html
+editor: visual
+---
+
+## What was the last movie you watched in the theatre? 
+
+**Answer:** The Flash in Summer 2023.
